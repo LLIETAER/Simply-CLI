@@ -1,0 +1,2 @@
+# Simply-CLI
+Simplivity CLI 
